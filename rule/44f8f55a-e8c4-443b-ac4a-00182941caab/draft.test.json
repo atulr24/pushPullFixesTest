@@ -4,15 +4,18 @@
  "isList": true,
  "dataList": [
   {
-   "createdAt": "2026-06-18T08:18:38.977Z",
-   "updatedAt": "2026-06-18T08:21:16.024678Z",
+   "createdAt": "2026-06-18T08:18:14.148Z",
+   "updatedAt": "2026-06-18T08:40:31.599137Z",
    "isDeleted": false,
-   "entityId": "94b70c76-85fb-4af8-bd3c-9d40b3cafc80",
-   "name": "Test 2",
+   "entityId": "5b83f951-3cdf-4b29-9d60-70b8bcf8526d",
+   "name": "Test 1",
+   "group": [
+    "G1"
+   ],
    "input": {
     "ci": {
      "Name": {
- "value": "Atul2"
+ "value": "Atul1"
 }
     }
    },
@@ -31,15 +34,18 @@
    }
   },
   {
-   "createdAt": "2026-06-18T08:18:14.148Z",
-   "updatedAt": "2026-06-18T08:21:16.013654Z",
+   "createdAt": "2026-06-18T08:18:38.982Z",
+   "updatedAt": "2026-06-18T08:37:35.91153Z",
    "isDeleted": false,
-   "entityId": "5b83f951-3cdf-4b29-9d60-70b8bcf8526d",
-   "name": "Test 1",
+   "entityId": "8cec0818-d8ee-45da-8b35-cc4a88ea2a3a",
+   "name": "Test 3",
+   "group": [
+    "G2"
+   ],
    "input": {
     "ci": {
      "Name": {
- "value": "Atul1"
+ "value": "Atul"
 }
     }
    },
@@ -50,7 +56,7 @@
 },
     "output": [
  {
-  "defaultOutputData": false,
+  "defaultOutputData": true,
   "rowError": null,
   "rowId": 1
  }
@@ -58,15 +64,18 @@
    }
   },
   {
-   "createdAt": "2026-06-18T08:18:38.982Z",
-   "updatedAt": "2026-06-18T08:18:45.40305Z",
+   "createdAt": "2026-06-18T08:18:38.977Z",
+   "updatedAt": "2026-06-18T08:37:35.893754Z",
    "isDeleted": false,
-   "entityId": "8cec0818-d8ee-45da-8b35-cc4a88ea2a3a",
-   "name": "Test 3",
+   "entityId": "94b70c76-85fb-4af8-bd3c-9d40b3cafc80",
+   "name": "Test 2",
+   "group": [
+    "G1"
+   ],
    "input": {
     "ci": {
      "Name": {
- "value": "Atul"
+ "value": "Atul23"
 }
     }
    },
